@@ -1,0 +1,7 @@
+@inproceedings{dai2018cross,
+  title={Cross-Modality Person Re-Identification with Generative Adversarial Training.},
+  author={Dai, Pingyang and Ji, Rongrong and Wang, Haibin and Wu, Qiong and Huang, Yuyu},
+  booktitle={IJCAI},
+  pages={677--683},
+  year={2018}
+}

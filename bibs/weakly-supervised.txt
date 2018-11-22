@@ -1,0 +1,9 @@
+@article{cao2017weakly,
+  title={Weakly supervised vehicle detection in satellite images via multi-instance discriminative learning},
+  author={Cao, Liujuan and Luo, Feng and Chen, Li and Sheng, Yihan and Wang, Haibin and Wang, Cheng and Ji, Rongrong},
+  journal={Pattern Recognition},
+  volume={64},
+  pages={417--424},
+  year={2017},
+  publisher={Elsevier}
+}
